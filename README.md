@@ -122,7 +122,7 @@ https://github.com/sdy60-2026/ge1/pull/20
 - **Αποθετήριο πηγαίου κώδικα:** https://github.com/vpetraki/my-cv-page
 - **Αρχείο δεδομένων YAML:** https://github.com/vpetraki/my-cv-page/blob/main/_data/cv.yml
 - **Πρόγραμμα δημιουργίας PDF:** https://github.com/vpetraki/my-cv-page/blob/main/build_cv.py
-- **Αυτοματοποιημένη διαδικασία GitHub Actions:** https://github.com/vpetraki/my-cv-page/actions
+- **Αυτοματοποιημένη διαδικασία GitHub Actions:** https://github.com/vpetraki/my-cv-page/actions/runs/39627749430
 
 ### Τοπική εκτέλεση
 
