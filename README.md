@@ -143,7 +143,7 @@ python build_cv.py
 
 Στην καταγραφή παρουσιάζεται η χρήση του αρχείου δεδομένων YAML, η εκτέλεση του προγράμματος Python και η δημιουργία του τελικού PDF μέσω Pandoc και XeLaTeX.
 
- **Σύνδεσμος καταγραφής Asciinema :** https://asciinema.org/connect/793b6c36-5ba9-40f0-9624-d85ef272983f
+ **Σύνδεσμος καταγραφής Asciinema :** https://asciinema.org/a/4L8GoQnPrbjlRLUL
 
 ## Μέρος Β - Ανάλυση και Σχεδίαση, 50 μονάδες
 
