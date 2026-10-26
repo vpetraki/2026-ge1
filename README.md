@@ -166,10 +166,9 @@ https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-com
 **Ενδεικτικές οθόνες εφαρμογής**
 <img src="https://github.com/user-attachments/assets/a02ac187-e574-444f-90ff-5ec63e801cab" width="250">
 <img src="https://github.com/user-attachments/assets/48e2e111-d12f-4563-a8bd-411b05228400" width="250">
-![WildFire Watch Spain 1] (<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/a02ac187-e574-444f-90ff-5ec63e801cab" />)
-![WildFire Watch Spain 2] (<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/48e2e111-d12f-4563-a8bd-411b05228400" />)
-![WildFire Watch Spain 3] (<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/a65783cc-9c36-4297-892c-fcc8a367f906" />)
-![WildFire Watch Spain 4] (<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/50d09a93-2af7-4b8b-895d-aaa435394ba4" />)
+<img src="https://github.com/user-attachments/assets/a65783cc-9c36-4297-892c-fcc8a367f906" width="250">
+<img src="https://github.com/user-attachments/assets/50d09a93-2af7-4b8b-895d-aaa435394ba4" width="250">
+
 
 ### Ερώτημα 2 – Ορισμός περσόνας και σεναρίου χρήσης [10 μον.]
 Παρουσιάστε (τουλάχιστον) μια περσόνα και ένα σενάριο χρήσης για την εφαρμογής σας. Το βασικό κριτήριο αξιολόγησης εδώ είναι να εστιάσετε στους χρήστες και στις λειτουργίες εκείνες που δεν ικανοποιούν οι υπάρχουσες εφαρμογές, όπως αυτά αναλύθηκαν στο προηγούμενο ερώτημα.
