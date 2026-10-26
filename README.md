@@ -164,6 +164,8 @@ https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-com
 **Εφαρμογή WildFire Watch Spain**
 
 **Ενδεικτικές οθόνες εφαρμογής**
+<img src="<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/a02ac187-e574-444f-90ff-5ec63e801cab" />" width="250">
+<img src="<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/48e2e111-d12f-4563-a8bd-411b05228400" />" width="250">
 ![WildFire Watch Spain 1] (<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/a02ac187-e574-444f-90ff-5ec63e801cab" />)
 ![WildFire Watch Spain 2] (<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/48e2e111-d12f-4563-a8bd-411b05228400" />)
 ![WildFire Watch Spain 3] (<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/a65783cc-9c36-4297-892c-fcc8a367f906" />)
