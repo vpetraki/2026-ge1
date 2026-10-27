@@ -198,9 +198,9 @@ https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-com
 Η εφαρμογή Fireguard – Wildfire Tracker επιτρέπει την παρακολούθηση δασικών πυρκαγιών μέσω γεωγραφικού χάρτη, αξιοποιώντας κυρίως δεδομένα δορυφορικών παρατηρήσεων. Παρέχει πληροφορίες για θερμά σημεία (hotspots) που εντοπίζονται από δορυφόρους, δυνατότητα παρακολούθησης συγκεκριμένων γεωγραφικών περιοχών και ενημέρωση για πρόσφατες ενδείξεις πυρκαγιών.
 
 **Ενδεικτικές οθόνες εφαρμογής**<br>
-<img src="https://github.com/user-attachments/assets/a02ac187-e574-444f-90ff-5ec63e801cab" width="250">
-<img src="https://github.com/user-attachments/assets/48e2e111-d12f-4563-a8bd-411b05228400" width="250">
-<img src="https://github.com/user-attachments/assets/a65783cc-9c36-4297-892c-fcc8a367f906" width="250">
+<img src="https://github.com/user-attachments/assets/ef4d49ca-b6da-4070-92c5-7b5ebfb6e3c9" width="250">
+<img src="https://github.com/user-attachments/assets/22342b35-f8ad-4f2c-8987-b99360d72864" width="250">
+<img src="https://github.com/user-attachments/assets/3f478bc2-7a02-4edb-8e41-210d61d2049b" width="250">
 
 **Περιγραφή εφαρμογής**
 
