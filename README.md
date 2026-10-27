@@ -223,6 +223,11 @@ https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-com
 **Εφαρμογή Firemaps**
 
 **Ενδεικτικές οθόνες εφαρμογής**<br>
+<img src="https://github.com/user-attachments/assets/d96eec1c-1b71-4c4d-9ed7-d6bd7f0958ed" width="250">
+<img src="https://github.com/user-attachments/assets/9c208e6b-cefc-409d-911f-4753d99738c0" width="250">
+<img src="https://github.com/user-attachments/assets/709beae8-4be5-4820-8bc7-f336995b1951" width="250"><br>
+<img src="https://github.com/user-attachments/assets/bc950ed5-74a3-48ff-b448-ae898fd5a009" width="250">
+<img src="https://github.com/user-attachments/assets/ca374450-f33c-4832-8eb2-b01a820d1bde" width="250">
 
 **Περιγραφή εφαρμογής**
 
