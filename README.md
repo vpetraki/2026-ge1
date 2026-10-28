@@ -368,13 +368,23 @@ https://www.interaction-design.org/literature/topics/user-scenarios
 Με βάση το σενάριο χρήσης που καταγράφηκε στο προηγούμενο ερώτημα, σχεδιάστηκαν οι παρακάτω 7 οθόνες.
   
 Οθόνη	Τι θα παρουσιάζει	Τι αποδεικνύει
-1. Smartwatch	- Σύντομη ενημέρωση για κοντινή πυρκαγιά
-2. Κεντρικός χάρτης	- Θέση χρήστη, πυρκαγιά, αισθητήρες και ζώνες κινδύνου
-3. Στοιχεία αισθητήρα -	Επιλογή σημείου στον χάρτη και προβολή μετρήσεων
-4. Στοιχεία πυρκαγιάς - Πηγή, επιβεβαίωση και επίσημες οδηγίες	
-5. Συνεργατικός χάρτης - Θέσεις μελών και αναφορές της ομάδας	
-6. Χάρτης απομάκρυνσης	- Διαδρομή, αποκλεισμένοι δρόμοι και επίσημες οδηγίες	
-7. Πλοήγηση	Αναλυτικές - οδηγίες ανά στροφή	Υποστήριξη αποφάσεων
+1. Κεντρικός χάρτης	πυρκαγιάς
+2. Στοιχεία πυρκαγιάς
+3. Περιβαλλοντικοί αισθητήρες
+4. Σύγκριση αισθητήρων
+5. Οικογενειακή ομάδα
+6. Οδηγίες απομάκρυνσης
+7. Αναλυτική πλοήγηση
+8. Smartwatch
+
+<img src="https://github.com/user-attachments/assets/9fb15687-1832-4fa8-951c-57a08b9d46b8" width="235">
+<img src="https://github.com/user-attachments/assets/5d65a8f3-2aed-4cc1-b763-ac388874fc5a" width="235">
+<img src="https://github.com/user-attachments/assets/4c3dbc8b-4589-4859-822a-6236143fe739" width="235">
+<img src="https://github.com/user-attachments/assets/4fc311bf-a52a-472f-a35d-16ec1886460b" width="235">
+<img src="https://github.com/user-attachments/assets/db322703-e743-4f74-ae28-8e81e06629e6" width="235">
+<img src="https://github.com/user-attachments/assets/6a1b6315-ba8d-4605-9b9b-c826ecad91b9" width="235">
+<img src="https://github.com/user-attachments/assets/0c235ebd-9dc8-40b7-91ff-3c2ddcc98a94" width="235">
+<img src="https://github.com/user-attachments/assets/433955b9-72ee-4e62-84e9-1a7188fdc2a3" width="235">
 
 </div>
 
