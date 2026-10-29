@@ -366,8 +366,7 @@ https://www.interaction-design.org/literature/topics/user-scenarios
 #### Απάντηση
 <div align="justify">
 Με βάση το σενάριο χρήσης που καταγράφηκε στο προηγούμενο ερώτημα, σχεδιάστηκαν οι παρακάτω 7 οθόνες.
-  
-Οθόνη	Τι θα παρουσιάζει	Τι αποδεικνύει
+
 1. Κεντρικός χάρτης	πυρκαγιάς
 2. Στοιχεία πυρκαγιάς
 3. Περιβαλλοντικοί αισθητήρες
@@ -377,15 +376,59 @@ https://www.interaction-design.org/literature/topics/user-scenarios
 7. Αναλυτική πλοήγηση
 8. Smartwatch
 
-<img src="https://github.com/user-attachments/assets/9fb15687-1832-4fa8-951c-57a08b9d46b8" width="235">
-<img src="https://github.com/user-attachments/assets/5d65a8f3-2aed-4cc1-b763-ac388874fc5a" width="235">
-<img src="https://github.com/user-attachments/assets/4c3dbc8b-4589-4859-822a-6236143fe739" width="235">
-<img src="https://github.com/user-attachments/assets/4fc311bf-a52a-472f-a35d-16ec1886460b" width="235">
-<img src="https://github.com/user-attachments/assets/db322703-e743-4f74-ae28-8e81e06629e6" width="235">
-<img src="https://github.com/user-attachments/assets/6a1b6315-ba8d-4605-9b9b-c826ecad91b9" width="235">
-<img src="https://github.com/user-attachments/assets/0c235ebd-9dc8-40b7-91ff-3c2ddcc98a94" width="235">
-<img src="https://github.com/user-attachments/assets/433955b9-72ee-4e62-84e9-1a7188fdc2a3" width="235">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9fb15687-1832-4fa8-951c-57a08b9d46b8" width="240">
+      <p><em>Εικόνα 1 – Κεντρικός χάρτης πυρκαγιάς</em></p>
+    </td>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/5d65a8f3-2aed-4cc1-b763-ac388874fc5a" width="240">
+      <p><em>Εικόνα 2 – Στοιχεία πυρκαγιάς</em></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4c3dbc8b-4589-4859-822a-6236143fe739" width="240">
+      <p><em>Εικόνα 3 – Περιβαλλοντικοί αισθητήρες</em></p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/4fc311bf-a52a-472f-a35d-16ec1886460b" width="240">
+      <p><em>Εικόνα 4 – Σύγκριση αισθητήρων</em></p>
+    </td>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/db322703-e743-4f74-ae28-8e81e06629e6" width="240">
+      <p><em>Εικόνα 5 – Οικογενειακή ομάδα</em></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6a1b6315-ba8d-4605-9b9b-c826ecad91b9" width="240">
+      <p><em>Εικόνα 6 – Οδηγίες απομάκρυνσης</em></p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/0c235ebd-9dc8-40b7-91ff-3c2ddcc98a94" width="240">
+      <p><em>Εικόνα 7 – Αναλυτική πλοήγησης</em></p>
+    </td>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/433955b9-72ee-4e62-84e9-1a7188fdc2a3" width="240">
+      <p><em>Εικόνα 8 – Smartwatch</em></p>
+    </td>    
+  </tr>
+</table>
 
+Στο σενάριο της Καλλιόπης η πορεία της με την χρήση της εφαρμογής θα μπορούσε να είναι:
+1. Λαμβάνει ειδοποίηση και ανοίγει τον κεντρικό χάρτη (Εικόνα 1).
+2. Επιλέγει την πυρκαγιά και βλέπει τα στοιχεία περιστατικού (Εικόνα 2).
+3. Επιστρέφει στον χάρτη, επιλέγει έναν αισθητήρα (Εικόνα 3) και συγκρίνει μετρήσεις (Εικόνα 4).
+4. Επιστρέφει στον χάρτη και ανοίγει την οικογενειακή ομάδα (Εικόνα 5).
+5. Όταν εκδίδεται επίσημη οδηγία απομάκρυνσης, μεταβαίνει μέσω των στοιχείων πυρκαγιάς στις οδηγίες απομάκρυνσης (Εικόνα 6).
+6. Ξεκινά την αναλυτική πλοήγηση (Εικόνα 7) και βλέπει παράλληλα σύντομες οδηγίες στο smartwatch (Εικόνα 8).
+   
 </div>
 
 ## Μέρος Γ – Παρουσίαση ενός επιστημονικού άρθρου, 10 μονάδες μπόνους
